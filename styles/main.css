@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300);
+
+* {
+	font-family: 'Lato', sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #0096DA;
+}
+
+a:active, a:hover {
+	text-decoration: underline;
+}
+
+li {
+	display: inline;
+}
+
+main {
+	width: 800px;
+	margin: auto;
+}
+
+#header2 {
+	text-align: center;
+}
+
+#buymba {
+	font-size: 250%;
+	font-weight: 300;
+}
+
+#select {
+	font-size: 95%;
+}
+
+#imagetext {
+	width: 500px;
+	float: left;
+}
+
+#mba {
+	float: left;
+}
+
+#mbatext {
+	font-size: 150%;
+}
+
+#menu1 {
+	background-color: black;
+	margin: -1%;
+	padding: 1em;
+}
+
+#logo, #logo2 {
+	width: 24px;
+	float: left;
+}
+
+#menuwidth {
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+
+.textcolor {
+	display: inline;
+	color: white;
+	word-spacing: 50px;
+	margin: auto;
+	font-size: 14px;
+}
+
+#mbasub1 {
+	float: left;
+}
+
+.mbasub2 {
+	color: black;
+}
+
+#mbasub1, .mbasub2 {
+	display: inline-block;
+}
+
+#subleft {
+	text-align: right;
+	word-spacing: 20px;
+}
+
+#menu2 {
+	padding-top: 10px;
+}
+
+#line {
+	margin: auto;
+	padding: auto;
+}
+
+.gallery2 {
+	display: inline;
+}	
+
+#part1 {
+	display: block;
+}
+
+#v1 {
+	font-weight: 300;
+	text-indent: left;
+	float: bottom;
+	width: 245px;
+	margin: 12px;
+}
+
+#v2 {
+	float: bottom;
+	font-weight: 300;
+}
+
+#sup1 {
+	font-size: 9px;
+	font-weight: 400;
+	font-family: sans-serif;
+}
+
+#footer_menu {
+	background-color: #F2F2F2;
+	margin: -1%;
+}
+
+.textcolor2 {
+	display: inline;
+	color: black;
+	margin: auto;
+	font-size: 14px;
+}
+
+.nonunderline {
+	text-decoration: none;
+}
